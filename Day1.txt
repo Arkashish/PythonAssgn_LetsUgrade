@@ -1,0 +1,6 @@
+Assignment
+
+1) Time complexity - O(N+M)
+     Space complexity - O(1)
+
+2) a)
